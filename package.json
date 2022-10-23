@@ -1,10 +1,9 @@
 {
-  "name": "301141335portfolio1",
+  "name": "portfolio1301141335",
   "version": "0.0.1",
   "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon Server.js"
+    "start": "node ./server.js"
   },
   "engines": {
     "node": "^18.9.1",
