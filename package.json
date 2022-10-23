@@ -1,10 +1,14 @@
 {
-  "name": "301141335porfolio1",
-  "version": "0.0.0",
+  "name": "301141335portfolio1",
+  "version": "0.0.1",
   "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon Server.js"
+  },
+  "engines": {
+    "node": "^12.00.0",
+    "npm": "6.0.0"
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.2.0",
@@ -17,5 +21,18 @@
     "jquery": "^3.6.1",
     "morgan": "~1.9.1",
     "popper.js": "^1.16.1"
-  }
+  },
+  "description": "portfolio ",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seunghyeonb1/301141335portfolio1.git"
+  },
+  "author": "seunghyeonBan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seunghyeonb1/301141335portfolio1/issues"
+  },
+  "homepage": "https://github.com/seunghyeonb1/301141335portfolio1#readme"
 }
